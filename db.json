@@ -1,0 +1,1146 @@
+{
+    "product" :[
+        {
+            "id": 31,
+            "name": "EYE'M UNSTOPPABLE",
+            "description": "Men's silver aviator frame sunglasses by EYE'M UNSTOPPABLE. Slip on these iconic aviator shades and go conquer the world. Grey polar lenses on a sleek metal frame",
+            "image": "../assets/womenEyeglasses/1.jpg",
+            "category": "Eyeglasses",
+            "gender": "women",
+            "featured": true,
+            "price": 29.99,
+            "stockQuantity": 5,
+            "feedbacks": [
+                {
+                    "id": "user1",
+                    "rating": 4,
+                    "comment": "Love the modern look and sleek design of the frames. They complement my face shape perfectly"
+                },
+                {
+                    "id": "user2",
+                    "rating": 3,
+                    "comment": "The UV protection is great for outdoor use. I feel like my eyes are well-protected from the sun"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "DOLCE & GABBANA",
+            "description": "Elegant brown lenses in the pilot style are a classic for a reason. Made of durable, high-grade plastic, these Bvlgari glasses' gold frames give them that extra touch of class.",
+            "image": "../assets/menSunglasses/8.jpg",
+            "category": "Sunglasses",
+            "gender": "men",
+            "featured": true,
+            "price": 55,
+            "stockQuantity": 2,
+            "feedbacks": [
+                {
+                    "id": "user1",
+                    "rating": 4,
+                    "comment": "Fit right out of the box without needing any adjustments. They stay in place, even when I'm on the move"
+                },
+                {
+                    "id": "user10",
+                    "rating": 4,
+                    "comment": "Great price for the quality. Feels like a premium product without the hefty price tag"
+                },
+                {
+                    "id": "user9",
+                    "rating": 4,
+                    "comment": "Came with a hard case and cleaning cloth, which is a nice bonus. The packaging was also eco-friendly"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "MONTBLANC",
+            "description": "Montblanc MB 0074S Eyeglasses. The pilot frames work beautifully with the thin temples, with ruthenium toning and gray lenses bringing in the chic.",
+            "image": "../assets/womenEyeglasses/3.jpg",
+            "category": "Eyeglasses",
+            "gender": "women",
+            "featured": true,
+            "price": 30,
+            "stockQuantity": 7,
+            "feedbacks": [
+                {
+                    "id": "user4",
+                    "rating": 4,
+                    "comment": "I've dropped them a few times, but they're surprisingly sturdy. No scratches or damage so far"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "BURBERRY",
+            "description": "The BURBERRY is memorable and daring, for a cool, effortless look—now in Red Havana frames.",
+            "image": "../assets/menEyeglasses/6.jpg",
+            "category": "Eyeglasses",
+            "gender": "men",
+            "featured": true,
+            "price": 150,
+            "stockQuantity": 5,
+            "feedbacks": [
+                {
+                    "id": "user1",
+                    "rating": 4,
+                    "comment": "Fit right out of the box without needing any adjustments. They stay in place, even when I'm on the move"
+                },
+                {
+                    "id": "user3",
+                    "rating": 4,
+                    "comment": "Great price for the quality. Feels like a premium product without the hefty price tag"
+                },
+                {
+                    "id": "user3",
+                    "rating": 4,
+                    "comment": "Came with a hard case and cleaning cloth, which is a nice bonus. The packaging was also eco-friendly"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "BVLGARI",
+            "description": "Elegant brown lenses in the pilot style are a classic for a reason. Made of durable, high-grade plastic, these Bvlgari glasses' gold frames give them that extra touch of class.",
+            "image": "../assets/menSunglasses/7.jpg",
+            "category": "Sunglasses",
+            "gender": "men",
+            "featured": true,
+            "price": 50,
+            "stockQuantity": 7,
+            "feedbacks": [
+                {
+                    "id": "user2",
+                    "rating": 4,
+                    "comment": "Fit right out of the box without needing any adjustments. They stay in place, even when I'm on the move"
+                },
+                {
+                    "id": "user4",
+                    "rating": 4,
+                    "comment": "Great price for the quality. Feels like a premium product without the hefty price tag"
+                },
+                {
+                    "id": "user9",
+                    "rating": 4,
+                    "comment": "Came with a hard case and cleaning cloth, which is a nice bonus. The packaging was also eco-friendly"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "EYE'M UNSTOPPABLE",
+            "description": "Men's silver aviator frame sunglasses by EYE'M UNSTOPPABLE. Slip on these iconic aviator shades and go conquer the world. Grey polar lenses on a sleek metal frame",
+            "image": "../assets/menSunglasses/1.jpg",
+            "category": "Sunglasses",
+            "gender": "men",
+            "featured": true,
+            "price": 20.99,
+            "stockQuantity": 5,
+            "feedbacks": [
+                {
+                    "id": "user1",
+                    "rating": 4,
+                    "comment": "Love the modern look and sleek design of the frames. They complement my face shape perfectly"
+                },
+                {
+                    "id": "user2",
+                    "rating": 3,
+                    "comment": "The UV protection is great for outdoor use. I feel like my eyes are well-protected from the sun"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "GIORGIO ARMANI",
+            "description": "Elegant brown lenses in the pilot style are a classic for a reason. Made of durable, high-grade plastic, these Bvlgari glasses' gold frames give them that extra touch of class.",
+            "image": "../assets/womenEyeglasses/10.jpg",
+            "category": "Eyeglasses",
+            "gender": "women",
+            "featured": true,
+            "price": 189.99,
+            "stockQuantity": 10,
+            "feedbacks": [
+                {
+                    "id": "user1",
+                    "rating": 5,
+                    "comment": "Fit right out of the box without needing any adjustments. They stay in place, even when I'm on the move"
+                },
+                {
+                    "id": "user9",
+                    "rating": 5,
+                    "comment": "Great price for the quality. Feels like a premium product without the hefty price tag"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "MONTBLNC",
+            "description": "Montblanc MB 0074S sunglasses. The pilot frames work beautifully with the thin temples, with ruthenium toning and gray lenses bringing in the chic.",
+            "image": "../assets/menSunglasses/3.jpg",
+            "category": "Sunglasses",
+            "gender": "men",
+            "featured": true,
+            "price": 30.99,
+            "stockQuantity": 7,
+            "feedbacks": [
+                {
+                    "id": "user4",
+                    "rating": 4,
+                    "comment": "I've dropped them a few times, but they're surprisingly sturdy. No scratches or damage so far"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "DOLCE & GABBANA",
+            "description": "The Dolce & Gabbana DG 4354 now comes in an iconic black! The gray lenses mesh beautifully with the full rim design of the black frames for a unique look.",
+            "image": "../assets/womenSunglasses/5.jpg",
+            "category": "Sunglasses",
+            "gender": "women",
+            "featured": false,
+            "price": 90.25,
+            "stockQuantity": 12,
+            "feedbacks": [
+                {
+                    "id": "user10",
+                    "rating": 5,
+                    "comment": "Fit right out of the box without needing any adjustments. They stay in place, even when I'm on the move"
+                },
+                {
+                    "id": "user9",
+                    "rating": 2,
+                    "comment": "Great price for the quality. Feels like a premium product without the hefty price tag"
+                },
+                {
+                    "id": "user1",
+                    "rating": 3,
+                    "comment": "Came with a hard case and cleaning cloth, which is a nice bonus. The packaging was also eco-friendly"
+                },
+                {
+                    "id": "user6",
+                    "rating": 5,
+                    "comment": "The lens clarity is outstanding. Colors appear more vibrant, and there's no distortion at the edges"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Ray-Ban",
+            "description": "Elegant brown lenses in the pilot style are a classic for a reason. Made of durable, high-grade plastic, these Bvlgari glasses' gold frames give them that extra touch of class.",
+            "image": "../assets/menEyeglasses/9.jpg",
+            "category": "Eyeglasses",
+            "gender": "men",
+            "featured": false,
+            "price": 170.99,
+            "stockQuantity": 7,
+            "feedbacks": [
+                {
+                    "id": "user2",
+                    "rating": 5,
+                    "comment": "Fit right out of the box without needing any adjustments. They stay in place, even when I'm on the move"
+                },
+                {
+                    "id": "user10",
+                    "rating": 1,
+                    "comment": "Great price for the quality. Feels like a premium product without the hefty price tag"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "GIORGIO ARMANI",
+            "description": "These men’s sunglasses by Giorgio Armani create a hint of mystery. Boasting a neat design, the full-rim round silhouette made from durable injected material in stylish blue is paired with slender temples bearing the renowned logo. The molded nose pads provide a comfortable fit for all-day wearability, while the brown lenses ensure optimal UV protection.",
+            "image": "../assets/menSunglasses/2.jpg",
+            "category": "Sunglasses",
+            "gender": "men",
+            "featured": false,
+            "price": 25.99,
+            "stockQuantity": 9,
+            "feedbacks": [
+                {
+                    "id": "user3",
+                    "rating": 4,
+                    "comment": "The glasses are so light on my nose and ears, I barely notice them. No more pressure marks or discomfort"
+                },
+                {
+                    "id": "user4",
+                    "rating": 3,
+                    "comment": "The lens clarity is outstanding. Colors appear more vibrant, and there's no distortion at the edges"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "EYE'M UNSTOPPABLE",
+            "description": "Men's silver aviator frame sunglasses by EYE'M UNSTOPPABLE. Slip on these iconic aviator shades and go conquer the world. Grey polar lenses on a sleek metal frame",
+            "image": "../assets/menEyeglasses/1.jpg",
+            "category": "Eyeglasses",
+            "gender": "men",
+            "featured": false,
+            "price": 120.99,
+            "stockQuantity": 5,
+            "feedbacks": [
+                {
+                    "id": "user1",
+                    "rating": 4,
+                    "comment": "Love the modern look and sleek design of the frames. They complement my face shape perfectly"
+                },
+                {
+                    "id": "user2",
+                    "rating": 3,
+                    "comment": "The UV protection is great for outdoor use. I feel like my eyes are well-protected from the sun"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "GIORGIO ARMANI",
+            "description": "These men’s Eyeglasses by Giorgio Armani create a hint of mystery. Boasting a neat design, the full-rim round silhouette made from durable injected material in stylish blue is paired with slender temples bearing the renowned logo. The molded nose pads provide a comfortable fit for all-day wearability, while the brown lenses ensure optimal UV protection.",
+            "image": "../assets/womenEyeglasses/2.jpg",
+            "category": "Eyeglasses",
+            "gender": "women",
+            "featured": false,
+            "price": 180.99,
+            "stockQuantity": 9,
+            "feedbacks": [
+                {
+                    "id": "user3",
+                    "rating": 4,
+                    "comment": "The glasses are so light on my nose and ears, I barely notice them. No more pressure marks or discomfort"
+                },
+                {
+                    "id": "user4",
+                    "rating": 3,
+                    "comment": "The lens clarity is outstanding. Colors appear more vibrant, and there's no distortion at the edges"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Ray-Ban",
+            "description": "Elegant brown lenses in the pilot style are a classic for a reason. Made of durable, high-grade plastic, these Bvlgari glasses' gold frames give them that extra touch of class.",
+            "image": "../assets/womenSunglasses/9.jpg",
+            "category": "Sunglasses",
+            "gender": "women",
+            "featured": false,
+            "price": 110.99,
+            "stockQuantity": 7,
+            "feedbacks": [
+                {
+                    "id": "user2",
+                    "rating": 5,
+                    "comment": "Fit right out of the box without needing any adjustments. They stay in place, even when I'm on the move"
+                },
+                {
+                    "id": "user10",
+                    "rating": 1,
+                    "comment": "Great price for the quality. Feels like a premium product without the hefty price tag"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "GIORGIO ARMANI",
+            "description": "Elegant brown lenses in the pilot style are a classic for a reason. Made of durable, high-grade plastic, these Bvlgari glasses' gold frames give them that extra touch of class.",
+            "image": "../assets/menSunglasses/10.jpg",
+            "category": "Sunglasses",
+            "gender": "men",
+            "featured": false,
+            "price": 65.99,
+            "stockQuantity": 10,
+            "feedbacks": [
+                {
+                    "id": "user1",
+                    "rating": 5,
+                    "comment": "Fit right out of the box without needing any adjustments. They stay in place, even when I'm on the move"
+                },
+                {
+                    "id": "user9",
+                    "rating": 5,
+                    "comment": "Great price for the quality. Feels like a premium product without the hefty price tag"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Ray-Ban",
+            "description": "With their oversized, square shape and gloss-black full rim, these men’s Eyeglasses by Ray-Ban give the impression of an almost-aviator style. Silver accents and sleek temples flaunting the characteristic brand scrawl add effortless cool.",
+            "image": "/../assets/menEyeglasses/4.jpg",
+            "category": "Eyeglasses",
+            "gender": "men",
+            "featured": false,
+            "price": 140.25,
+            "stockQuantity": 3,
+            "feedbacks": [
+                {
+                    "id": "user5",
+                    "rating": 5,
+                    "comment": "The glasses are so light on my nose and ears, I barely notice them. No more pressure marks or discomfort"
+                },
+                {
+                    "id": "user6",
+                    "rating": 2,
+                    "comment": "The lens clarity is outstanding. Colors appear more vibrant, and there's no distortion at the edges"
+                },
+                {
+                    "id": "user7",
+                    "rating": 3,
+                    "comment": "The glasses are so light on my nose and ears, I barely notice them. No more pressure marks or discomfort"
+                },
+                {
+                    "id": "user8",
+                    "rating": 5,
+                    "comment": "The lens clarity is outstanding. Colors appear more vibrant, and there's no distortion at the edges"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "BURBERRY",
+            "description": "The BURBERRY is memorable and daring, for a cool, effortless look—now in Red Havana frames.",
+            "image": "../assets/womenSunglasses/6.jpg",
+            "category": "Sunglasses",
+            "gender": "women",
+            "featured": false,
+            "price": 95,
+            "stockQuantity": 5,
+            "feedbacks": [
+                {
+                    "id": "user1",
+                    "rating": 4,
+                    "comment": "Fit right out of the box without needing any adjustments. They stay in place, even when I'm on the move"
+                },
+                {
+                    "id": "user3",
+                    "rating": 4,
+                    "comment": "Great price for the quality. Feels like a premium product without the hefty price tag"
+                },
+                {
+                    "id": "user3",
+                    "rating": 4,
+                    "comment": "Came with a hard case and cleaning cloth, which is a nice bonus. The packaging was also eco-friendly"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "BVLGARI",
+            "description": "Elegant brown lenses in the pilot style are a classic for a reason. Made of durable, high-grade plastic, these Bvlgari glasses' gold frames give them that extra touch of class.",
+            "image": "../assets/womenEyeglasses/7.jpg",
+            "category": "Eyeglasses",
+            "gender": "women",
+            "featured": false,
+            "price": 15,
+            "stockQuantity": 7,
+            "feedbacks": [
+                {
+                    "id": "user2",
+                    "rating": 4,
+                    "comment": "Fit right out of the box without needing any adjustments. They stay in place, even when I'm on the move"
+                },
+                {
+                    "id": "user4",
+                    "rating": 4,
+                    "comment": "Great price for the quality. Feels like a premium product without the hefty price tag"
+                },
+                {
+                    "id": "user9",
+                    "rating": 4,
+                    "comment": "Came with a hard case and cleaning cloth, which is a nice bonus. The packaging was also eco-friendly"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Ray-Ban",
+            "description": "Elegant brown lenses in the pilot style are a classic for a reason. Made of durable, high-grade plastic, these Bvlgari glasses' gold frames give them that extra touch of class.",
+            "image": "../assets/womenEyeglasses/9.jpg",
+            "category": "Eyeglasses",
+            "gender": "women",
+            "featured": false,
+            "price": 102.99,
+            "stockQuantity": 7,
+            "feedbacks": [
+                {
+                    "id": "user2",
+                    "rating": 5,
+                    "comment": "Fit right out of the box without needing any adjustments. They stay in place, even when I'm on the move"
+                },
+                {
+                    "id": "user10",
+                    "rating": 1,
+                    "comment": "Great price for the quality. Feels like a premium product without the hefty price tag"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "DOLCE & GABBANA",
+            "description": "The Dolce & Gabbana DG 4354 now comes in an iconic black! The gray lenses mesh beautifully with the full rim design of the black frames for a unique look.",
+            "image": "../assets/menEyeglasses/5.jpg",
+            "category": "Eyeglasses",
+            "gender": "men",
+            "featured": false,
+            "price": 145.25,
+            "stockQuantity": 12,
+            "feedbacks": [
+                {
+                    "id": "user10",
+                    "rating": 5,
+                    "comment": "Fit right out of the box without needing any adjustments. They stay in place, even when I'm on the move"
+                },
+                {
+                    "id": "user9",
+                    "rating": 2,
+                    "comment": "Great price for the quality. Feels like a premium product without the hefty price tag"
+                },
+                {
+                    "id": "user1",
+                    "rating": 3,
+                    "comment": "Came with a hard case and cleaning cloth, which is a nice bonus. The packaging was also eco-friendly"
+                },
+                {
+                    "id": "user6",
+                    "rating": 5,
+                    "comment": "The lens clarity is outstanding. Colors appear more vibrant, and there's no distortion at the edges"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "MONTBLANC",
+            "description": "Montblanc MB 0074S Eyeglasses. The pilot frames work beautifully with the thin temples, with ruthenium toning and gray lenses bringing in the chic.",
+            "image": "../assets/menEyeglasses/3.jpg",
+            "category": "Eyeglasses",
+            "gender": "men",
+            "featured": false,
+            "price": 135,
+            "stockQuantity": 7,
+            "feedbacks": [
+                {
+                    "id": "user4",
+                    "rating": 4,
+                    "comment": "I've dropped them a few times, but they're surprisingly sturdy. No scratches or damage so far"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "BVLGARI",
+            "description": "Elegant brown lenses in the pilot style are a classic for a reason. Made of durable, high-grade plastic, these Bvlgari glasses' gold frames give them that extra touch of class.",
+            "image": "../assets/menEyeglasses/7.jpg",
+            "category": "Eyeglasses",
+            "gender": "men",
+            "featured": false,
+            "price": 155,
+            "stockQuantity": 7,
+            "feedbacks": [
+                {
+                    "id": "user2",
+                    "rating": 4,
+                    "comment": "Fit right out of the box without needing any adjustments. They stay in place, even when I'm on the move"
+                },
+                {
+                    "id": "user4",
+                    "rating": 4,
+                    "comment": "Great price for the quality. Feels like a premium product without the hefty price tag"
+                },
+                {
+                    "id": "user9",
+                    "rating": 4,
+                    "comment": "Came with a hard case and cleaning cloth, which is a nice bonus. The packaging was also eco-friendly"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Ray-Ban",
+            "description": "With their oversized, square shape and gloss-black full rim, these men’s sunglasses by Ray-Ban give the impression of an almost-aviator style. Silver accents and sleek temples flaunting the characteristic brand scrawl add effortless cool.",
+            "image": "/../assets/womenSunglasses/4.jpg",
+            "category": "Sunglasses",
+            "gender": "women",
+            "featured": false,
+            "price": 85.25,
+            "stockQuantity": 3,
+            "feedbacks": [
+                {
+                    "id": "user5",
+                    "rating": 5,
+                    "comment": "The glasses are so light on my nose and ears, I barely notice them. No more pressure marks or discomfort"
+                },
+                {
+                    "id": "user6",
+                    "rating": 2,
+                    "comment": "The lens clarity is outstanding. Colors appear more vibrant, and there's no distortion at the edges"
+                },
+                {
+                    "id": "user7",
+                    "rating": 3,
+                    "comment": "The glasses are so light on my nose and ears, I barely notice them. No more pressure marks or discomfort"
+                },
+                {
+                    "id": "user8",
+                    "rating": 5,
+                    "comment": "The lens clarity is outstanding. Colors appear more vibrant, and there's no distortion at the edges"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "BVLGARI",
+            "description": "Elegant brown lenses in the pilot style are a classic for a reason. Made of durable, high-grade plastic, these Bvlgari glasses' gold frames give them that extra touch of class.",
+            "image": "../assets/womenSunglasses/7.jpg",
+            "category": "Sunglasses",
+            "gender": "women",
+            "featured": false,
+            "price": 100,
+            "stockQuantity": 7,
+            "feedbacks": [
+                {
+                    "id": "user2",
+                    "rating": 4,
+                    "comment": "Fit right out of the box without needing any adjustments. They stay in place, even when I'm on the move"
+                },
+                {
+                    "id": "user4",
+                    "rating": 4,
+                    "comment": "Great price for the quality. Feels like a premium product without the hefty price tag"
+                },
+                {
+                    "id": "user9",
+                    "rating": 4,
+                    "comment": "Came with a hard case and cleaning cloth, which is a nice bonus. The packaging was also eco-friendly"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "MONTBLANC",
+            "description": "Montblanc MB 0074S sunglasses. The pilot frames work beautifully with the thin temples, with ruthenium toning and gray lenses bringing in the chic.",
+            "image": "../assets/womenSunglasses/3.jpg",
+            "category": "Sunglasses",
+            "gender": "women",
+            "featured": false,
+            "price": 80,
+            "stockQuantity": 7,
+            "feedbacks": [
+                {
+                    "id": "user4",
+                    "rating": 4,
+                    "comment": "I've dropped them a few times, but they're surprisingly sturdy. No scratches or damage so far"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "GIORGIO ARMANI",
+            "description": "These men’s sunglasses by Giorgio Armani create a hint of mystery. Boasting a neat design, the full-rim round silhouette made from durable injected material in stylish blue is paired with slender temples bearing the renowned logo. The molded nose pads provide a comfortable fit for all-day wearability, while the brown lenses ensure optimal UV protection.",
+            "image": "../assets/womenSunglasses/2.jpg",
+            "category": "Sunglasses",
+            "gender": "women",
+            "featured": false,
+            "price": 75.99,
+            "stockQuantity": 9,
+            "feedbacks": [
+                {
+                    "id": "user3",
+                    "rating": 4,
+                    "comment": "The glasses are so light on my nose and ears, I barely notice them. No more pressure marks or discomfort"
+                },
+                {
+                    "id": "user4",
+                    "rating": 3,
+                    "comment": "The lens clarity is outstanding. Colors appear more vibrant, and there's no distortion at the edges"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "GIORGIO ARMANI",
+            "description": "Elegant brown lenses in the pilot style are a classic for a reason. Made of durable, high-grade plastic, these Bvlgari glasses' gold frames give them that extra touch of class.",
+            "image": "../assets/menEyeglasses/10.jpg",
+            "category": "Eyeglasses",
+            "gender": "men",
+            "featured": false,
+            "price": 50.99,
+            "stockQuantity": 10,
+            "feedbacks": [
+                {
+                    "id": "user1",
+                    "rating": 5,
+                    "comment": "Fit right out of the box without needing any adjustments. They stay in place, even when I'm on the move"
+                },
+                {
+                    "id": "user9",
+                    "rating": 5,
+                    "comment": "Great price for the quality. Feels like a premium product without the hefty price tag"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "DOLCE & GABBANA",
+            "description": "Elegant brown lenses in the pilot style are a classic for a reason. Made of durable, high-grade plastic, these Bvlgari glasses' gold frames give them that extra touch of class.",
+            "image": "../assets/womenEyeglasses/8.jpg",
+            "category": "Eyeglasses",
+            "gender": "women",
+            "featured": false,
+            "price": 80,
+            "stockQuantity": 2,
+            "feedbacks": [
+                {
+                    "id": "user1",
+                    "rating": 4,
+                    "comment": "Fit right out of the box without needing any adjustments. They stay in place, even when I'm on the move"
+                },
+                {
+                    "id": "user10",
+                    "rating": 4,
+                    "comment": "Great price for the quality. Feels like a premium product without the hefty price tag"
+                },
+                {
+                    "id": "user9",
+                    "rating": 4,
+                    "comment": "Came with a hard case and cleaning cloth, which is a nice bonus. The packaging was also eco-friendly"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "GIORGIO ARMANI",
+            "description": "These men’s Eyeglasses by Giorgio Armani create a hint of mystery. Boasting a neat design, the full-rim round silhouette made from durable injected material in stylish blue is paired with slender temples bearing the renowned logo. The molded nose pads provide a comfortable fit for all-day wearability, while the brown lenses ensure optimal UV protection.",
+            "image": "../assets/menEyeglasses/2.jpg",
+            "category": "Eyeglasses",
+            "gender": "men",
+            "featured": false,
+            "price": 130.99,
+            "stockQuantity": 9,
+            "feedbacks": [
+                {
+                    "id": "user3",
+                    "rating": 4,
+                    "comment": "The glasses are so light on my nose and ears, I barely notice them. No more pressure marks or discomfort"
+                },
+                {
+                    "id": "user4",
+                    "rating": 3,
+                    "comment": "The lens clarity is outstanding. Colors appear more vibrant, and there's no distortion at the edges"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "BURBERRY",
+            "description": "The BURBERRY is memorable and daring, for a cool, effortless look—now in Red Havana frames.",
+            "image": "../assets/menSunglasses/6.jpg",
+            "category": "Sunglasses",
+            "gender": "men",
+            "featured": false,
+            "price": 45,
+            "stockQuantity": 5,
+            "feedbacks": [
+                {
+                    "id": "user1",
+                    "rating": 4,
+                    "comment": "Fit right out of the box without needing any adjustments. They stay in place, even when I'm on the move"
+                },
+                {
+                    "id": "user3",
+                    "rating": 4,
+                    "comment": "Great price for the quality. Feels like a premium product without the hefty price tag"
+                },
+                {
+                    "id": "user3",
+                    "rating": 4,
+                    "comment": "Came with a hard case and cleaning cloth, which is a nice bonus. The packaging was also eco-friendly"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "DOLCE & GABBANA",
+            "description": "Elegant brown lenses in the pilot style are a classic for a reason. Made of durable, high-grade plastic, these Bvlgari glasses' gold frames give them that extra touch of class.",
+            "image": "../assets/womenSunglasses/8.jpg",
+            "category": "Sunglasses",
+            "gender": "women",
+            "featured": false,
+            "price": 105,
+            "stockQuantity": 2,
+            "feedbacks": [
+                {
+                    "id": "user1",
+                    "rating": 4,
+                    "comment": "Fit right out of the box without needing any adjustments. They stay in place, even when I'm on the move"
+                },
+                {
+                    "id": "user10",
+                    "rating": 4,
+                    "comment": "Great price for the quality. Feels like a premium product without the hefty price tag"
+                },
+                {
+                    "id": "user9",
+                    "rating": 4,
+                    "comment": "Came with a hard case and cleaning cloth, which is a nice bonus. The packaging was also eco-friendly"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "DOLCE & GABBANA",
+            "description": "The Dolce & Gabbana DG 4354 now comes in an iconic black! The gray lenses mesh beautifully with the full rim design of the black frames for a unique look.",
+            "image": "../assets/womenEyeglasses/5.jpg",
+            "category": "Eyeglasses",
+            "gender": "women",
+            "featured": false,
+            "price": 40.25,
+            "stockQuantity": 12,
+            "feedbacks": [
+                {
+                    "id": "user10",
+                    "rating": 5,
+                    "comment": "Fit right out of the box without needing any adjustments. They stay in place, even when I'm on the move"
+                },
+                {
+                    "id": "user9",
+                    "rating": 2,
+                    "comment": "Great price for the quality. Feels like a premium product without the hefty price tag"
+                },
+                {
+                    "id": "user1",
+                    "rating": 3,
+                    "comment": "Came with a hard case and cleaning cloth, which is a nice bonus. The packaging was also eco-friendly"
+                },
+                {
+                    "id": "user6",
+                    "rating": 5,
+                    "comment": "The lens clarity is outstanding. Colors appear more vibrant, and there's no distortion at the edges"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "DOLCE & GABBANA",
+            "description": "The Dolce & Gabbana DG 4354 now comes in an iconic black! The gray lenses mesh beautifully with the full rim design of the black frames for a unique look.",
+            "image": "../assets/menSunglasses/5.jpg",
+            "category": "Sunglasses",
+            "gender": "men",
+            "featured": false,
+            "price": 40.25,
+            "stockQuantity": 12,
+            "feedbacks": [
+                {
+                    "id": "user10",
+                    "rating": 5,
+                    "comment": "Fit right out of the box without needing any adjustments. They stay in place, even when I'm on the move"
+                },
+                {
+                    "id": "user9",
+                    "rating": 2,
+                    "comment": "Great price for the quality. Feels like a premium product without the hefty price tag"
+                },
+                {
+                    "id": "user1",
+                    "rating": 3,
+                    "comment": "Came with a hard case and cleaning cloth, which is a nice bonus. The packaging was also eco-friendly"
+                },
+                {
+                    "id": "user6",
+                    "rating": 5,
+                    "comment": "The lens clarity is outstanding. Colors appear more vibrant, and there's no distortion at the edges"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "BURBERRY",
+            "description": "The BURBERRY is memorable and daring, for a cool, effortless look—now in Red Havana frames.",
+            "image": "../assets/womenEyeglasses/6.jpg",
+            "category": "Eyeglasses",
+            "gender": "women",
+            "featured": false,
+            "price": 65,
+            "stockQuantity": 5,
+            "feedbacks": [
+                {
+                    "id": "user1",
+                    "rating": 4,
+                    "comment": "Fit right out of the box without needing any adjustments. They stay in place, even when I'm on the move"
+                },
+                {
+                    "id": "user3",
+                    "rating": 4,
+                    "comment": "Great price for the quality. Feels like a premium product without the hefty price tag"
+                },
+                {
+                    "id": "user3",
+                    "rating": 4,
+                    "comment": "Came with a hard case and cleaning cloth, which is a nice bonus. The packaging was also eco-friendly"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Ray-Ban",
+            "description": "Elegant brown lenses in the pilot style are a classic for a reason. Made of durable, high-grade plastic, these Bvlgari glasses' gold frames give them that extra touch of class.",
+            "image": "../assets/menSunglasses/9.jpg",
+            "category": "Sunglasses",
+            "gender": "men",
+            "featured": false,
+            "price": 60.99,
+            "stockQuantity": 7,
+            "feedbacks": [
+                {
+                    "id": "user2",
+                    "rating": 5,
+                    "comment": "Fit right out of the box without needing any adjustments. They stay in place, even when I'm on the move"
+                },
+                {
+                    "id": "user10",
+                    "rating": 1,
+                    "comment": "Great price for the quality. Feels like a premium product without the hefty price tag"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Ray-Ban",
+            "description": "With their oversized, square shape and gloss-black full rim, these men’s sunglasses by Ray-Ban give the impression of an almost-aviator style. Silver accents and sleek temples flaunting the characteristic brand scrawl add effortless cool.",
+            "image": "/../assets/menSunglasses/4.jpg",
+            "category": "Sunglasses",
+            "gender": "men",
+            "featured": false,
+            "price": 35.25,
+            "stockQuantity": 3,
+            "feedbacks": [
+                {
+                    "id": "user5",
+                    "rating": 5,
+                    "comment": "The glasses are so light on my nose and ears, I barely notice them. No more pressure marks or discomfort"
+                },
+                {
+                    "id": "user6",
+                    "rating": 2,
+                    "comment": "The lens clarity is outstanding. Colors appear more vibrant, and there's no distortion at the edges"
+                },
+                {
+                    "id": "user7",
+                    "rating": 3,
+                    "comment": "The glasses are so light on my nose and ears, I barely notice them. No more pressure marks or discomfort"
+                },
+                {
+                    "id": "user8",
+                    "rating": 5,
+                    "comment": "The lens clarity is outstanding. Colors appear more vibrant, and there's no distortion at the edges"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "EYE'M UNSTOPPABLE",
+            "description": "Men's silver aviator frame sunglasses by EYE'M UNSTOPPABLE. Slip on these iconic aviator shades and go conquer the world. Grey polar lenses on a sleek metal frame",
+            "image": "../assets/womenSunglasses/1.jpg",
+            "category": "Sunglasses",
+            "gender": "women",
+            "featured": false,
+            "price": 70.99,
+            "stockQuantity": 5,
+            "feedbacks": [
+                {
+                    "id": "user1",
+                    "rating": 4,
+                    "comment": "Love the modern look and sleek design of the frames. They complement my face shape perfectly"
+                },
+                {
+                    "id": "user2",
+                    "rating": 3,
+                    "comment": "The UV protection is great for outdoor use. I feel like my eyes are well-protected from the sun"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Ray-Ban",
+            "description": "With their oversized, square shape and gloss-black full rim, these men’s Eyeglasses by Ray-Ban give the impression of an almost-aviator style. Silver accents and sleek temples flaunting the characteristic brand scrawl add effortless cool.",
+            "image": "/../assets/womenEyeglasses/4.jpg",
+            "category": "Eyeglasses",
+            "gender": "women",
+            "featured": false,
+            "price": 21.25,
+            "stockQuantity": 3,
+            "feedbacks": [
+                {
+                    "id": "user5",
+                    "rating": 5,
+                    "comment": "The glasses are so light on my nose and ears, I barely notice them. No more pressure marks or discomfort"
+                },
+                {
+                    "id": "user6",
+                    "rating": 2,
+                    "comment": "The lens clarity is outstanding. Colors appear more vibrant, and there's no distortion at the edges"
+                },
+                {
+                    "id": "user7",
+                    "rating": 3,
+                    "comment": "The glasses are so light on my nose and ears, I barely notice them. No more pressure marks or discomfort"
+                },
+                {
+                    "id": "user8",
+                    "rating": 5,
+                    "comment": "The lens clarity is outstanding. Colors appear more vibrant, and there's no distortion at the edges"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "GIORGIO ARMANI",
+            "description": "Elegant brown lenses in the pilot style are a classic for a reason. Made of durable, high-grade plastic, these Bvlgari glasses' gold frames give them that extra touch of class.",
+            "image": "../assets/womenSunglasses/10.jpg",
+            "category": "Sunglasses",
+            "gender": "women",
+            "featured": false,
+            "price": 115.99,
+            "stockQuantity": 10,
+            "feedbacks": [
+                {
+                    "id": "user1",
+                    "rating": 5,
+                    "comment": "Fit right out of the box without needing any adjustments. They stay in place, even when I'm on the move"
+                },
+                {
+                    "id": "user9",
+                    "rating": 5,
+                    "comment": "Great price for the quality. Feels like a premium product without the hefty price tag"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "DOLCE & GABBANA",
+            "description": "Elegant brown lenses in the pilot style are a classic for a reason. Made of durable, high-grade plastic, these Bvlgari glasses' gold frames give them that extra touch of class.",
+            "image": "../assets/menEyeglasses/8.jpg",
+            "category": "Eyeglasses",
+            "gender": "men",
+            "featured": false,
+            "price": 160,
+            "stockQuantity": 2,
+            "feedbacks": [
+                {
+                    "id": "user1",
+                    "rating": 4,
+                    "comment": "Fit right out of the box without needing any adjustments. They stay in place, even when I'm on the move"
+                },
+                {
+                    "id": "user10",
+                    "rating": 4,
+                    "comment": "Great price for the quality. Feels like a premium product without the hefty price tag"
+                },
+                {
+                    "id": "user9",
+                    "rating": 4,
+                    "comment": "Came with a hard case and cleaning cloth, which is a nice bonus. The packaging was also eco-friendly"
+                }
+            ]
+        }
+    ],
+    "users":[
+        {
+            "id": 1,
+            "username": "Essam Ayman",
+            "password": "password123",
+            "email": "essamayman111@gmail.com",
+            "role": "user",
+            "loggedIn": false,
+            "wishList": [
+                "prod10",
+                "prod1"
+            ],
+            "shoppingCart": [
+                {
+                    "id": "prod2",
+                    "quantity": 2
+                },
+                {
+                    "id": "prod3",
+                    "quantity": 1
+                }
+            ],
+            "orders": [
+                "order1",
+                "order2"
+            ]
+        },
+        {
+            "id": 2,
+            "username": "Alex Johnson",
+            "password": "securePass456",
+            "email": "alexjohnson999@gmail.com",
+            "role": "admin",
+            "loggedIn": false,
+            "wishList": [],
+            "shoppingCart": [],
+            "orders": []
+        },
+        {
+            "id": 3,
+            "username": "Samantha Reed",
+            "password": "myPassword789",
+            "email": "samanthareed@gmail.com",
+            "role": "user",
+            "loggedIn": false,
+            "wishList": [
+                "prod13",
+                "prod12"
+            ],
+            "shoppingCart": [
+                {
+                    "id": "prod15",
+                    "quantity": 1
+                },
+                {
+                    "id": "prod17",
+                    "quantity": 4
+                }
+            ],
+            "orders": [
+                "order5",
+                "order6"
+            ]
+        },
+        {
+            "id": 4,
+            "username": "Michael Scott",
+            "password": "bestBoss123",
+            "email": "michaelscott@gmail.com",
+            "role": "admin",
+            "loggedIn": false,
+            "wishList": [],
+            "shoppingCart": [],
+            "orders": []
+        },
+        {
+            "id": "user5",
+            "username": "Lara Croft",
+            "password": "explorer321",
+            "email": "laracroft@gmail.com",
+            "role": "user",
+            "loggedIn": false,
+            "wishList": [
+                "prod33",
+                "prod22"
+            ],
+            "shoppingCart": [
+                {
+                    "id": "prod34",
+                    "quantity": 1
+                },
+                {
+                    "id": "prod35",
+                    "quantity": 2
+                }
+            ],
+            "orders": [
+                "prod39",
+                "prod38"
+            ]
+        }
+    ]
+}
